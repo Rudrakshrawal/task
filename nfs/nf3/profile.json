@@ -1,0 +1,12 @@
+{
+    "nfInstanceId": "udm-789",
+    "nfType": "UDM",
+    "nfStatus": "REGISTERED",
+    "ipv4Addresses": ["10.0.0.3"],
+    "allowedNfTypes": ["AMF", "SMF"],
+    "priority": 1,
+    "capacity": 100,
+    "load": 30,
+    "nfServices": [],
+    "nfProfileChangesSupportInd": true
+  }

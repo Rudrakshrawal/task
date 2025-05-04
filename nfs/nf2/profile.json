@@ -1,0 +1,12 @@
+{
+    "nfInstanceId": "smf-456",
+    "nfType": "SMF",
+    "nfStatus": "REGISTERED",
+    "ipv4Addresses": ["10.0.0.2"],
+    "allowedNfTypes": ["AMF", "UDM"],
+    "priority": 1,
+    "capacity": 100,
+    "load": 20,
+    "nfServices": [],
+    "nfProfileChangesSupportInd": true
+  }

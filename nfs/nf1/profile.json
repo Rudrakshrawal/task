@@ -1,0 +1,12 @@
+{
+    "nfInstanceId": "amf-123",
+    "nfType": "AMF",
+    "nfStatus": "REGISTERED",
+    "ipv4Addresses": ["10.0.0.1"],
+    "allowedNfTypes": ["SMF", "UDM"],
+    "priority": 1,
+    "capacity": 100,
+    "load": 10,
+    "nfServices": [],
+    "nfProfileChangesSupportInd": true
+  }
